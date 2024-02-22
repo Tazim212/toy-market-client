@@ -1,0 +1,69 @@
+[
+    {
+      "photo": "https://i.ibb.co/bXTWXyr/toy1.jpg",
+      "name": "Tiger",
+      "sellerName": "Tazim",
+      "email": "tazim100@gmail.com",
+      "category": "Tiger",
+      "price": 350,
+      "rating": 4.2,
+      "quantity": 5,
+      "desc": "Its a good toy"
+    },
+    {
+      "photo": "https://i.ibb.co/bXTWXyr/toy1.jpg",
+      "name": "Tiger",
+      "sellerName": "Tanjim",
+      "email": "tanjim21@gmail.com",
+      "category": "Tiger",
+      "price": 200,
+      "rating": 3.8,
+      "quantity": 8,
+      "desc": "Another TOy"
+    },
+    {
+      "photo": "https://i.ibb.co/8PYPKP1/toy3.jpg",
+      "name": "Zebra",
+      "sellerName": "Nabil",
+      "email": "nabil23@gmail.com",
+      "category": "Zebra",
+      "price": 400,
+      "rating": 4.5,
+      "quantity": 12,
+      "desc": "Its a nice animal"
+    },
+    {
+      "photo": "https://i.ibb.co/3z05NPD/toy4.jpg",
+      "name": "Zebra",
+      "sellerName": "Taskin",
+      "email": "taskin29@gmail.com",
+      "category": "Zebra",
+      "price": 500,
+      "rating": 4.7,
+      "quantity": 3,
+      "desc": "Another toy"
+    },
+    {
+      "photo": "https://i.ibb.co/z7rbwm8/toy5.jpg",
+      "name": "Ziraffe",
+      "sellerName": "Tamim",
+      "email": "tamim34@gmail.com",
+      "category": "Ziraffe",
+      "price": 150,
+      "rating": 4.9,
+      "quantity": 2,
+      "desc": "Its a ziraffe now"
+    },
+    {
+      "photo": "https://i.ibb.co/3N4PmNb/toy6.jpg",
+      "name": "Ziraffe",
+      "sellerName": "Nodi",
+      "email": "nodi21@gmail.com",
+      "category": "Ziraffe",
+      "price": 400,
+      "rating": 4.0,
+      "quantity": 6,
+      "desc": "Ziraffe animal"
+    }
+  ]
+  
